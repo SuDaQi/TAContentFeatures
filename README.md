@@ -14,4 +14,6 @@
     在屏幕空间定位一个遮罩蒙版，供UI使用
         -UITexture：UI纹理
         -Width：蒙版左右移动
+        -Height：蒙版上下移动
         -Level：蒙版级别
+        -LeftRight/TopDown：切换左右上下蒙版模式
