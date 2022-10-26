@@ -8,3 +8,10 @@
 ————BP_LightRayInCamera
 
     在相机视角的面片光，模拟丁达尔灯光。（顺光减弱待优化
+
+————M_ScreenEdge_Umg
+
+    在屏幕空间定位一个遮罩蒙版，供UI使用
+        -UITexture：UI纹理
+        -Width：蒙版左右移动
+        -Level：蒙版级别
