@@ -17,3 +17,8 @@
         -Height：蒙版上下移动
         -Level：蒙版级别
         -LeftRight/TopDown：切换左右上下蒙版模式
+
+————M_CarMatMain
+
+    车漆shader（安卓端用
+        -材质参数集交互
