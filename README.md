@@ -18,7 +18,11 @@
         -Level：蒙版级别
         -LeftRight/TopDown：切换左右上下蒙版模式
 
-————M_CarMatMain
+————M_UmgEdge
 
-    车漆shader（安卓端用
-        -材质参数集交互
+    UI的消失平移蒙版
+        用于叠层交互
+        
+————MF_CarMatMain
+
+    车漆shader样式1
